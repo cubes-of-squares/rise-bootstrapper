@@ -1,0 +1,3 @@
+v1.0.0 = not rlly much, just basic ui
+v1.1.0 = i forgot
+v1.2.0 (CURRENT) = added some nice appearance settings
