@@ -10,3 +10,4 @@
 0.2.6 = just added animations to some things like the tabs in the editor for qol
 0.2.7 = added cloud scripts from scriptblox as a tab on top of screen, also added rename and duplicate when you right click a tab in the editor
 0.2.8 = forgot what i added, it was something very small
+0.2.9 = just some more ui improvement, i still think the ui is kinda buns
