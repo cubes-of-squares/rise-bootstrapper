@@ -2,3 +2,4 @@
 1.1.0 = i forgot
 1.2.0 = added some nice appearance settings
 1.3.0 = improved UI massively, transferred to Tauri, removed backgrounds because they were bs
+1.3.5 = minor bug fixes and changes with the UI
