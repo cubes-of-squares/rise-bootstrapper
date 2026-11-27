@@ -9,3 +9,4 @@
 1.4.2 = just some more minor UI changes
 1.4.3 = just added animations to some things like the tabs in the editor for qol
 1.5.0 = added cloud scripts from scriptblox as a tab on top of screen, also added rename and duplicate when you right click a tab in the editor
+1.5.1 = forgot what i added, it was something very small
