@@ -6,3 +6,4 @@
 1.3.6 = very minor, just changed icons
 1.4.0 = basically just ui improvement in some areas like settings and home
 1.4.1 = messing with appearance settings
+1.4.2 = just some more minor UI changes
