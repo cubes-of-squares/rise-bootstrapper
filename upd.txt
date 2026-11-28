@@ -13,3 +13,4 @@
 0.2.9 = just some more ui improvement, i still think the ui is kinda buns
 0.3.0 = nothing big, just added update notifier and a few things in the about section of settings
 0.3.1 = bumped up version to test update notifier
+0.3.2 = 🤷 i forgot, VERY VERY VERY minor, might have even just uploaded the same version as 0.3.0
